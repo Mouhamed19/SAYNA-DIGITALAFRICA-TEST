@@ -1,0 +1,231 @@
+
+/* HEADER CSS*/
+header div {
+    background: #B11313;
+    height: 55px;
+    
+}
+ul li a{
+    font-family: cursive;
+    color: white;
+    text-decoration: none;
+    
+}
+ul{
+    list-style: none;
+}
+
+header nav{
+    float: right;
+    margin-top: 15px;
+}
+header nav ul li{
+    display: inline-block;
+    margin-right: 60px;
+}
+header div img{
+    margin-top: 4px;
+    margin-left: 25px;
+    
+}
+.logo1{
+    margin-left:200px;
+}
+
+
+/*SESSION IMAGE 1*/ 
+#image1{
+    width: 100%;
+    background:url(Illustration/img1.png) ;
+    
+}
+#image1 h1{
+    font-size: 100px;
+    font-family:cursive,sans-serif;
+    font-style: regular;
+    padding-top: 280px;
+    padding-bottom: 100px;
+    padding-left: 150px;
+    color: white;
+    
+}
+.bouton1{
+    display: block;
+    width: 150px;
+    height: 35px;
+    background: white;
+    color: red;
+    border-radius: 10px;
+    line-height: 33px;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: -40px;
+}
+.bouton2{
+    display: block;
+    width: 150px;
+    height: 35px;
+    border:1px solid white;
+    color: white;
+    border-radius: 10px;
+    line-height: 33px;
+    text-align: center;
+    margin-left: 330px;
+    margin-top: -36px;
+}
+#image1 p{
+    color: white;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+#image1 .spidermans{
+    font-family: cursive;
+    margin-top: 210px;
+    font-size: 30px;
+}
+.bouton3{
+    
+    display: block;
+    width: 150px;
+    height: 35px;
+    background: white;
+    color: red;
+    border-radius: 10px;
+    line-height: 33px;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: -30px;
+}
+/* SESSION ARTICLE */
+#articles{
+    background-color:maroon;
+}
+article p{
+    color: white;
+    font-family: Regular,sans-serif;
+    font-size: 13px;
+}
+#formulaire{
+    background-color: #114C92;
+}
+
+/*FORMULAIRE 1*/
+
+#formulaire h1{
+    color: white;
+    font-family: cursive;
+}
+.form{
+    color: white;
+}
+.formulaire{
+  float: right;
+  margin-top: -400px;
+  margin-right: -600px;    
+}
+.envoyer{
+  display: block;
+    width: 150px;
+    height: 35px;
+    border:1px solid white;
+    color: white;
+    border-radius: 10px;
+    line-height: 33px;
+    text-align: center;
+    margin-left: 190px;
+    margin-top: -36px;  
+}
+
+/*FORMULAIRE 2*/
+
+#newsletter img{
+    float: left;
+    margin-left:650px;
+    width: 700px;
+}
+#newsletter{
+    background-color: maroon;
+}
+.formulaire2{
+    float: left;
+    margin-top: -60px;
+    margin-right: 1210px;
+    
+}
+.formulaire2 h1{
+    color: white;
+    font-family: cursive;
+    font-size: 40px;
+    
+}
+form{
+    width: 450px;
+}
+.checkbox{
+    margin-left: 50px;
+}
+.hero{
+    display: block;
+    width: 250px;
+    height: 35px;
+    background: white;
+    color: red;
+    border-radius: 10px;
+    line-height: 33px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+/*PIEDS DE PAGE */
+
+footer{
+    background-color: black;
+    height: 250px;
+}
+footer nav{
+    float: left;
+    margin-top: 15px;
+}
+footer nav ul li{
+    display: inline-block;
+    margin-right: 60px;
+}
+.rigth{
+    float: right;
+    margin-right: -100px;
+}
+form select{
+    float: right;
+    margin-right: 170px;
+    background-color: maroon;
+    margin-top: -25px;
+}
+.logos{
+    margin-left: -350px;
+}
+.logos img{
+    border-radius: 10px;
+}
+.copy{
+    margin-top: 50px;
+    margin-left: -150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
