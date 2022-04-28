@@ -1,0 +1,3 @@
+# SAYNA-DIGITALAFRICA-TEST
+Test d'entrée-Site web responsive
+ALLEZ SUR INDEX.HTML POUR VOIR LE SITE WEB
